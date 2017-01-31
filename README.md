@@ -1,0 +1,2 @@
+# python_env
+python実行環境をvagrant+ansible_localで構築
